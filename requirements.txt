@@ -1,0 +1,6 @@
+pandas 
+matplotlib
+seaborn 
+streamlit
+babel
+altair==4.0
