@@ -19,7 +19,7 @@ max_date = all_df["datetime"].max()
 
 with st.sidebar:
     st.title("Dashboard", )
-    st.image("Logo.png", width=300, use_column_width=True)
+    st.image("dashboard/Logo.png", width=300, use_column_width=True)
 
     start_date, end_date = st.date_input(
         "Select date range",
