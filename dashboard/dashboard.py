@@ -5,7 +5,7 @@ import streamlit as st
 
 sns.set(style="dark")
 
-all_df = pd.read_csv('main_data.csv')
+all_df = pd.read_csv('./main_data.csv')
 
 datetime_columns = ["datetime"]
 all_df.sort_values(by="datetime", inplace=True)
