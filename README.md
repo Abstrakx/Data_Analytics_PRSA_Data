@@ -60,6 +60,8 @@ $ ./.venv/Scripts/activate
 ### 7. Otomatis akan membuka browser dan steamlit sudah siap
 Jika tidak terbuka sendiri, coba masukan ip yang ada diterminal ke browser.
 
-**Catatan** : Tolong untuk .ipynb menggunakan colab. 
+##**Catatan** 
+Tolong untuk .ipynb menggunakan colab. 
 
-**Colaborator** : Maulana Al Iqbal Widodo
+##**Colaborator**
+Maulana Al Iqbal Widodo
